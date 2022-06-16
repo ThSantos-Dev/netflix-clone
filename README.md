@@ -2,6 +2,8 @@
 
 <p>Projeto criado com intuito de entender na prática como o Reactjs funciona, de maneira simples e objetiva.</p>
 
+<p>Preview da aplicação: <a href="https://helpful-elf-386dbb.netlify.app/">clique aqui</a>.</p>
+
 ## Tecnologias utilizadas:
 <ul>
     <li>HTML5</li>
